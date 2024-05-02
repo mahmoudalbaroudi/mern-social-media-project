@@ -41,4 +41,4 @@ UI Components: Designing UI components using Material-UI library for consistent 
    npm start
 4. Start the frontend development server:
    npm start.
-5. Access the application in your browser at http://localhost:3000.
+5. Access the application in your browser at http://localhost:3000
